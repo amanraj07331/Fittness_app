@@ -1,10 +1,10 @@
-#Gym Management & Workout Tracking App
+##Gym Management & Workout Tracking App
 
-#Overview
+##Overview
 
 A Gym Management & Workout Tracking Application built using React.js and MUI, designed to provide an engaging and user-friendly experience for fitness enthusiasts. The app enables users to track exercises, view workout details, and navigate seamlessly across different sections.
 
-#Features
+##Features
 
 Exercise Tracking System – View detailed workout descriptions.
 
@@ -16,7 +16,7 @@ Modern UI with MUI – Provides a clean and user-friendly interface.
 
 Component-Based Architecture – Ensures scalability and maintainability.
 
-#Tech Stack
+##Tech Stack
 
 Frontend: React.js, React Router, MUI (Material-UI)
 
